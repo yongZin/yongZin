@@ -19,7 +19,7 @@
 
 <div align="center">
 	<!-- <img src="https://github-readme-stats.vercel.app/api?username=yongZin&amp;show_icons=true&amp;theme=transparent&amp;title_color=93F9B9&amp;border_color=93F9B9&amp;icon_color=93F9B9&amp;text_color=1D976C" alt="Anurag&#39;s GitHub stats" style="height:180px">&nbsp -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongZin&amp;layout=compact&amp;theme=transparent&amp;title_color=93F9B9&amp;border_color=93F9B9&amp;icon_color=93F9B9&amp;text_color=1D976C" alt="Top Langs" style="height:180px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongZin&amp;layout=compact&amp;theme=transparent&amp;title_color=229d70&amp;border_color=229d70&amp;text_color=1D976C" alt="Top Langs" style="height:180px">
 </div>
 
 <!-- <div align="center">
@@ -32,8 +32,7 @@
 <div align="center">
 	<h3>📞 Contact</h3>
 	<a href="https://open.kakao.com/o/s9f9Qqig">
-		<img src="https://img.shields.io/badge/
-		KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+		<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000">
 	</a>
 	<a href="mailto:vzb001@gmail.com">
 		<img src="https://img.shields.io/badge/vzb001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
