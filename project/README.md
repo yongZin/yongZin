@@ -24,7 +24,9 @@
 
 ### 2. 입찰 플랫폼 반응형 퍼블리싱 협업
 
-<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/consulting-logo.jpg?raw=true" height="100" />
+<a href="http://www.inbid.co.kr/#/main">
+	<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/consulting-logo.jpg?raw=true" height="100" />
+</a>
 
 <img src="https://img.shields.io/badge/2021.10_~_2022.05-2c2b28.svg?style=for-the-badge" />
 
@@ -41,3 +43,42 @@
 > - 메인페이지 위주의 반응형 퍼블리싱 구현
 
 <img src="https://github.com/yongZin/yongZin/blob/main/images/accordian.png?raw=true" />
+
+
+### 3. 인트라넷 리뉴얼 퍼블리싱
+
+<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/intranet-logo.jpg?raw=true" height="100" />
+
+<img src="https://img.shields.io/badge/2021.07_~_2021.09-2c2b28.svg?style=for-the-badge" />
+
+<details>
+	<summary>인트라넷 작업물 보기</summary>
+	<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/intranet.gif?raw=true" height="350" />
+</details>
+
+> #### 에스와이소프트(현:지니) 자체 인트라넷 리뉴얼 퍼블리싱
+> ##### 주요 담당 업무
+> - 모든 페이지 퍼블리싱 담당
+
+
+### 4. 비드펀딩 반응형 퍼블리싱 협업
+
+<a href="https://www.bidfunding.co.kr/#/main">
+	<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/bidfunding-logo.png?raw=true" height="100" />
+</a>
+
+<img src="https://img.shields.io/badge/2020.10_~_2021.06-2c2b28.svg?style=for-the-badge" />
+
+<details>
+	<summary>비드펀딩 미리보기</summary>
+	<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/bidfunding.gif?raw=true" height="350" />
+</details>
+
+> #### P2P 대출 플랫폼 ‘비드펀딩’ 반응형 퍼블리싱 협업
+> ##### 주요 담당 업무
+> - header, footer, 테이블, 버튼과 같은 공통으로 사용되는 요소들의 컴포넌트화 작업
+> - 아코디언 메뉴, 모달 팝업 등 클릭관련 이벤트 구현
+> - 대출신청 페이지 위주의 반응형 페이지 퍼블리싱
+> - 간단한 클래스 네이밍 가이드를 제작하여 협업 진행
+
+<img src="https://github.com/yongZin/yongZin/blob/main/images/guide.png?raw=true" />
