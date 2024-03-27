@@ -1,7 +1,9 @@
 # Previous Company Projects
 ### 1. (주)지니 회사소개 반응형 퍼블리싱 협업
 
-<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/jini-logo.png?raw=true" height="100" />
+<a href="http://newjini.co.kr/pages/index.html">
+	<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/jini-logo.png?raw=true" height="100" />
+</a>
 
 <img src="https://img.shields.io/badge/2022.06_~_2022.09-2c2b28.svg?style=for-the-badge" />
 
