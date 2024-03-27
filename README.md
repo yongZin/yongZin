@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=gradient&amp;customColorList=26&amp;text=Welcome%20to%20yongZin's%20GitHub%20👋&amp;animation=twinkling&amp;fontSize=40&amp;fontAlignY=50&amp;fontAlign=50&amp;height=180" alt="header">
+	<img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=gradient&amp;customColorList=26&amp;text=Welcome%20to%20yongZin's%20GitHub%20👋&amp;animation=twinkling&amp;fontSize=35&amp;fontAlignY=50&amp;fontAlign=50&amp;height=130" alt="header">
 </div>
 
 <br>
@@ -7,10 +7,28 @@
 
 <div align="center">
 	<details>
-		<summary style="font-size:25px">
-			프로젝트
-		</summary>
+		<summary>프로젝트 보러가기</summary>
 		<br>
+		<p>
+			<a href="https://github.com/yongZin/product-upload">
+				<img src="https://img.shields.io/badge/Product_Upload_►-5b6273?style=for-the-badge">
+			</a>
+		</p>
+		<p>
+			<a href="https://github.com/yongZin/memoryGame">
+				<img src="https://img.shields.io/badge/memoryGame_►-80597c?style=for-the-badge">
+			</a>
+		</p>
+		<p>
+			<a href="https://github.com/yongZin/yongzin.github.io/tree/main/scroll">
+				<img src="https://img.shields.io/badge/Freitag_Scroll_►-326e64?style=for-the-badge">
+			</a>
+		</p>
+		<p>
+			<a href="https://github.com/yongZin/yongZin/tree/main/project">
+				<img src="https://img.shields.io/badge/Previous_company_projects_►-aaab5e?style=for-the-badge">
+			</a>
+		</p>
 	</details>
 </div>
 
@@ -18,16 +36,8 @@
 <br>
 
 <div align="center">
-	<!-- <img src="https://github-readme-stats.vercel.app/api?username=yongZin&amp;show_icons=true&amp;theme=transparent&amp;title_color=93F9B9&amp;border_color=93F9B9&amp;icon_color=93F9B9&amp;text_color=1D976C" alt="Anurag&#39;s GitHub stats" style="height:180px">&nbsp -->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongZin&amp;layout=compact&amp;theme=transparent&amp;title_color=229d70&amp;border_color=229d70&amp;text_color=1D976C" alt="Top Langs" style="height:180px">
 </div>
-
-<!-- <div align="center">
-<p>✨✨✨</p>
-	<a href="https://yongzin.github.io/">
-		<img src="https://img.shields.io/badge/portfolio-20232a?style=for-the-badge">
-	</a>
-</div> -->
 
 <div align="center">
 	<h3>📞 Contact</h3>
