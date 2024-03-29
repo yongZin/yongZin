@@ -11,6 +11,8 @@
 	</a>
 </div>
 
+<br>
+
 <div align="center">
 	<details>
 		<summary>프로젝트 자세히 보러가기</summary>
