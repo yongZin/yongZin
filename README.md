@@ -6,8 +6,14 @@
 <br>
 
 <div align="center">
+	<a href="https://yongzin.github.io">
+		<img src="https://img.shields.io/badge/포트폴리오_보러가기►-c98302?style=for-the-badge" />
+	</a>
+</div>
+
+<div align="center">
 	<details>
-		<summary>프로젝트 보러가기</summary>
+		<summary>프로젝트 자세히 보러가기</summary>
 		<br>
 		<p>
 			<a href="https://github.com/yongZin/product-upload">
