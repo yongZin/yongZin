@@ -7,6 +7,9 @@
 
 <img src="https://img.shields.io/badge/2022.06_~_2022.09-2c2b28.svg?style=for-the-badge" />
 
+#### [(주)지니 회사소개 미리보기]
+<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/jini.gif?raw=true" height="350" />
+
 <details>
 	<summary>(주)지니 회사소개 미리보기</summary>
 	<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/jini.gif?raw=true" height="350" />
