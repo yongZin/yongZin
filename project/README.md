@@ -35,10 +35,8 @@
 
 <img src="https://img.shields.io/badge/2021.10_~_2022.05-2c2b28.svg?style=for-the-badge" />
 
-<details>
-	<summary>입찰플랫폼 작업물 보기</summary>
-	<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/consulting.gif?raw=true" height="350" />
-</details>
+##### 입찰플랫폼 작업물 보기
+<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/consulting.gif?raw=true" height="350" />
 
 > #### 나라장터 입찰 플랫폼 14개 사이트 통합 및 반응형 퍼블리싱
 > ##### 주요 담당 업무
@@ -63,10 +61,8 @@
 
 <img src="https://img.shields.io/badge/2021.07_~_2021.09-2c2b28.svg?style=for-the-badge" />
 
-<details>
-	<summary>인트라넷 작업물 보기</summary>
-	<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/intranet.gif?raw=true" height="350" />
-</details>
+##### 인트라넷 작업물 보기
+<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/intranet.gif?raw=true" height="350" />
 
 > #### 에스와이소프트(현:지니) 자체 인트라넷 리뉴얼 퍼블리싱
 > ##### 주요 담당 업무
@@ -87,10 +83,8 @@
 
 <img src="https://img.shields.io/badge/2020.10_~_2021.06-2c2b28.svg?style=for-the-badge" />
 
-<details>
-	<summary>비드펀딩 미리보기</summary>
-	<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/bidfunding.gif?raw=true" height="350" />
-</details>
+##### 비드펀딩 미리보기
+<img src="https://github.com/yongZin/yongZin/blob/main/images/gif/bidfunding.gif?raw=true" height="350" />
 
 > #### P2P 대출 플랫폼 ‘비드펀딩’ 반응형 퍼블리싱 협업
 > ##### 주요 담당 업무
