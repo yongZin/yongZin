@@ -11,12 +11,9 @@
 	</a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-	<details>
-		<summary>프로젝트 자세히 보러가기</summary>
-		<br>
 		<p>
 			<a href="https://github.com/yongZin/product-upload">
 				<img src="https://img.shields.io/badge/Product_Upload_►-5b6273?style=for-the-badge">
@@ -37,7 +34,6 @@
 				<img src="https://img.shields.io/badge/Previous_company_projects_►-aaab5e?style=for-the-badge">
 			</a>
 		</p>
-	</details>
 </div>
 
 <br>
