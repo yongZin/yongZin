@@ -16,22 +16,22 @@
 <div align="center">
 		<p>
 			<a href="https://github.com/yongZin/product-upload">
-				<img src="https://img.shields.io/badge/Product_Upload_보러가기-5b6273?style=for-the-badge">
+				<img src="https://img.shields.io/badge/상품_업로드_보러가기-5b6273?style=for-the-badge">
 			</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/memoryGame">
-				<img src="https://img.shields.io/badge/memoryGame_보러가기-80597c?style=for-the-badge">
+				<img src="https://img.shields.io/badge/같은그림찾기_보러가기-80597c?style=for-the-badge">
 			</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/yongzin.github.io/tree/main/scroll">
-				<img src="https://img.shields.io/badge/Freitag_Scroll_보러가기-326e64?style=for-the-badge">
+				<img src="https://img.shields.io/badge/프라이탁_클론코딩_보러가기-326e64?style=for-the-badge">
 			</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/yongZin/tree/main/project">
-				<img src="https://img.shields.io/badge/Previous_company_projects_보러가기-aaab5e?style=for-the-badge">
+				<img src="https://img.shields.io/badge/(주)뉴지니_프로젝트_보러가기-aaab5e?style=for-the-badge">
 			</a>
 		</p>
 </div>
