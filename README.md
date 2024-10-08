@@ -174,6 +174,9 @@
 	</tr>
 </table>
 
+<br>
+<br>
+
 <!-- > #### 기술 스택
 > - FRONT  
 > ![react](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
@@ -253,6 +256,9 @@
 	</tr>
 </table>
 
+<br>
+<br>
+
 <!-- > ### 기술 스택
 > - FRONT  
 > ![react](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
@@ -304,6 +310,9 @@
 		</td>
 	</tr>
 </table>
+
+<br>
+<br>
 
 <!-- > ### 기술 스택
 > ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -393,6 +402,8 @@
 
 <img src="https://github.com/yongZin/yongZin/blob/main/images/accordian.png?raw=true" />
 
+<br>
+<br>
 
 ## _6. 인트라넷 리뉴얼 퍼블리싱_
 
@@ -425,6 +436,9 @@
 		</td>
 	</tr>
 </table>
+
+<br>
+<br>
 
 ## _7. 비드펀딩 반응형 퍼블리싱 협업_
 
@@ -466,3 +480,6 @@
 </table>
 
 <img src="https://github.com/yongZin/yongZin/blob/main/images/guide.png?raw=true" />
+
+<br>
+<br>
