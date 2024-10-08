@@ -7,7 +7,8 @@
 
 <div align="center">
 	<a href="https://yongzin.github.io">
-		<img src="https://img.shields.io/badge/포트폴리오_보러가기►-c98302?style=for-the-badge" />
+		포트폴리오 보러가기
+<!-- 		<img src="https://img.shields.io/badge/포트폴리오_보러가기►-c98302?style=for-the-badge" /> -->
 	</a>
 </div>
 
@@ -16,23 +17,26 @@
 <div align="center">
 		<p>
 			<a href="https://github.com/yongZin/product-upload">
-				<img src="https://img.shields.io/badge/상품_업로드_보러가기►-5b6273?style=for-the-badge">
+				PRODUCT UPLOAD 보러가기
+<!-- 				<img src="https://img.shields.io/badge/상품_업로드_보러가기►-5b6273?style=for-the-badge"> -->
 			</a>
-			<a href="https://github.com/yongZin/product-upload">상품_업로드_보러가기</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/memoryGame">
-				<img src="https://img.shields.io/badge/같은그림찾기_보러가기►-80597c?style=for-the-badge">
+				MEMORY GAME 보러가기
+<!-- 				<img src="https://img.shields.io/badge/같은그림찾기_보러가기►-80597c?style=for-the-badge"> -->
 			</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/yongzin.github.io/tree/main/scroll">
-				<img src="https://img.shields.io/badge/프라이탁_클론코딩_보러가기►-326e64?style=for-the-badge">
+				FREITAG COMPANY 보러가기
+<!-- 				<img src="https://img.shields.io/badge/프라이탁_클론코딩_보러가기►-326e64?style=for-the-badge"> -->
 			</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/yongZin/tree/main/project">
-				<img src="https://img.shields.io/badge/(주)뉴지니_프로젝트_보러가기►-aaab5e?style=for-the-badge">
+				(주)뉴지니 PROJECT 보러가기
+<!-- 				<img src="https://img.shields.io/badge/(주)뉴지니_프로젝트_보러가기►-aaab5e?style=for-the-badge"> -->
 			</a>
 		</p>
 </div>
