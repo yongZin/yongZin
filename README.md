@@ -5,6 +5,13 @@
 <br>
 <br>
 
+<div align="center">
+	<a href="https://yongzin.github.io">포트폴리오 보러가기</a>
+</div>
+
+<br>
+<br>
+
 <!-- <div align="center">
 	<a href="https://yongzin.github.io">
 		<img src="https://img.shields.io/badge/포트폴리오_보러가기►-c98302?style=for-the-badge" />
