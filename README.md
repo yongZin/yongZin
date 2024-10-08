@@ -111,7 +111,7 @@
 
 # 프로젝트
 
-## Product Upload
+### 1. Product Upload
 
 > 업사이클링 브랜드 프라이탁의 쇼핑몰로 회원가입과 로그인이 가능하며 유저 권한에 따라 상품을 업로드 및 삭제할 수 있고, 사용자는 마음에 드는 상품에 좋아요를 표시할 수 있습니다. 또한 상품 정렬 및 필터 기능을 통해 원하는 상품을 찾을 수 있습니다.
 
@@ -121,10 +121,10 @@
 
 <br>
 
-> ### 미리 보기
+> #### 미리 보기
 > ![preview](https://github.com/yongZin/yongZin/blob/main/images/gif/product_upload.gif?raw=true)
 
-> ### 주요 기능
+> #### 주요 기능
 > - 회원가입
 > - 로그인 (세션 ID)
 > - 임시 관리자 로그인
@@ -139,7 +139,7 @@
 
 
 
-> ### 기술 스택
+> #### 기술 스택
 > - FRONT  
 > ![react](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
 > ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b)
