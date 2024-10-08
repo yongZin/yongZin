@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-	<a href="https://yongzin.github.io">포트폴리오 보러가기</a>
+	<a href="https://yongzin.github.io" target="_balnk" >포트폴리오 보러가기</a>
 </div>
 
 <br>
