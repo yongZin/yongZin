@@ -18,6 +18,7 @@
 			<a href="https://github.com/yongZin/product-upload">
 				<img src="https://img.shields.io/badge/상품_업로드_보러가기►-5b6273?style=for-the-badge">
 			</a>
+			<a href="https://github.com/yongZin/product-upload">상품_업로드_보러가기</a>
 		</p>
 		<p>
 			<a href="https://github.com/yongZin/memoryGame">
