@@ -123,7 +123,7 @@
 
 [🛍️ 포트폴리오_보러가기](https://yongzin-upload.vercel.app/)
 <br>
-[저장소 보러가기](https://github.com/yongZin/product-upload/)
+[💻 저장소 보러가기](https://github.com/yongZin/product-upload/)
 
 <br>
 
@@ -211,6 +211,8 @@
 <br>
 
 [🕹️ 포트폴리오 보러가기](https://yongzin-memorygame.vercel.app/)
+<br>
+[💻 저장소 보러가기](https://github.com/yongZin/memoryGame)
 
 <br>
 
@@ -291,6 +293,7 @@
 <br>
 
 [👀 포트폴리오 보러가기](https://yongzin.github.io/scroll/scroll.html)
+[💻 저장소 보러가기](https://github.com/yongZin/yongzin.github.io)
 
 <br>
 
