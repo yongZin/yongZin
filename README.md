@@ -139,7 +139,8 @@
 > - 상품 정렬 및 필터
 > - 반응형 UI
 > - TOASTIFY를 활용한 alert
-> - useContext를 활용한 상태관리
+> - Context API를 활용한 클라이언트 상태 관리
+> - React Query를 활용한 서버 상태 관리
 
 <br>
 
@@ -151,6 +152,8 @@
 		<td>FRONT</td>
 		<td>
 			<img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react" />
+			<img src="https://img.shields.io/badge/react--context-20232a?style=for-the-badge&logo=react" />
+			<img src="https://img.shields.io/badge/react--query-ff4154?style=for-the-badge&logo=reactquery&logoColor=fff" />
 			<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />
 			<img src="https://img.shields.io/badge/react--toastify-f99c19?style=for-the-badge" />
 			<img src="https://img.shields.io/badge/react--Quill-252739?style=for-the-badge" />
