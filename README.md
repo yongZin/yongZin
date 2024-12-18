@@ -384,9 +384,23 @@
 </a>
 
 <img src="https://img.shields.io/badge/2021.10_~_2022.05-2c2b28.svg?style=for-the-badge" />
+[인비드](http://www.inbid.co.kr/#/main)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > #### 입찰플랫폼 작업물 보기
-> #### (인비드, 청비드, 오토비드, 비드인, 한라입찰, 진비드, 정비드, 비드플러스, 솔비드, 비드스쿨, 비에스, 유비드, 다온TS, 더비스)
+> #### ([인비드](http://www.inbid.co.kr/#/main), [청비드](http://www.chungbid.co.kr/#/main), [오토비드](http://www.autobid.co.kr/#/main), [비드인](http://www.bidin.co.kr/#/main), [한라입찰](http://www.hallabid.com/#/main), [진비드](http://www.jinbid.co.kr/#/main), [정비드](http://www.jungbid.co.kr/#/main), [비드플러스](http://www.bidplus.co.kr/#/main), [솔비드](http://www.solbid.co.kr/#/main), [비드스쿨](http://www.bidschool.co.kr/#/main), [비에스](http://www.bidss.co.kr/#/main), [유비드](http://www.eubid.co.kr/#/main), [다온TS](http://www.daonts.co.kr/#/main), [더비스](http://www.thebis.co.kr/#/main))
 > <img src="https://github.com/yongZin/yongZin/blob/main/images/gif/consulting.gif?raw=true" height="350" />
 
 > #### 주요 담당 업무
