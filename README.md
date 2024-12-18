@@ -340,6 +340,8 @@
 	<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/jini-logo.png?raw=true" height="100" />
 </a>
 
+[JINI 보러가기](http://www.sysofting.co.kr/pages/index.html)
+
 <img src="https://img.shields.io/badge/2022.06_~_2022.09-2c2b28.svg?style=for-the-badge" />
 
 > #### (주)지니 회사소개 미리보기
