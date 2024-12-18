@@ -464,6 +464,8 @@
 	<img src="https://github.com/yongZin/yongZin/blob/main/images/logo/bidfunding-logo.png?raw=true" height="100" />
 </a>
 
+[비드펀딩 보러가기](https://www.bidfunding.co.kr/)
+
 <img src="https://img.shields.io/badge/2020.10_~_2021.06-2c2b28.svg?style=for-the-badge" />
 
 > #### 비드펀딩 미리보기
